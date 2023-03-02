@@ -12,5 +12,6 @@ setuptools.setup(
     packages=['SimpleBinderGTA5Package/'],
     install_requires=['keyboard','pywin32'],
     include_package_data=True,
+    url = https://github.com/RenatValiev/TestPypi.git
     python_requires='>=3.6',
 )
